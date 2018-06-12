@@ -2,11 +2,12 @@
 
 ## Example C++ programming assignment
 An example assignment description for students (with link to create repos) is [here](https://docs.google.com/document/d/1mszTJFAmO-uTtE0nFBGjUvFE7y1e6-GjyAkK7cjN5n0/edit?usp=sharing).
+
 Starter code for students, including a .travis.yml to enable testing is [here](https://classroom.github.com/g/iOSmGwQ2).
 
 ## Steps to download and grade submissions
 1. Create the list of repository URLs to clone (specify organization name here) into repos_list.txt
-get_urls_from github.py -u mygithubusername -p mygithubpassword --org githuborganization > repos_list.txt
+`get_urls_from github.py -u mygithubusername -p mygithubpassword --org githuborganization > repos_list.txt`
 
 2. Edit repos_list.txt to remove any projects that should not be downloaded. (We have multiple assignments in one Organization, so we remove all but the ones to be graded)
 
