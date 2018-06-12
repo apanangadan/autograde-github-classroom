@@ -3,7 +3,7 @@
 ## Example C++ programming assignment
 An example assignment description for students (with link to create repos) is [here](https://docs.google.com/document/d/1mszTJFAmO-uTtE0nFBGjUvFE7y1e6-GjyAkK7cjN5n0/edit?usp=sharing).
 
-Starter code for students, including a .travis.yml to enable testing is [here](https://classroom.github.com/g/iOSmGwQ2).
+Starter code for students, including a .travis.yml to provide automatic feedback is [here](https://github.com/CSUF-CPSC-131-Spring2018/project0skeleton).
 
 ## Steps to download and grade submissions
 1. Create the list of repository URLs to clone (specify organization name here) into repos_list.txt
