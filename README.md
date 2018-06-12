@@ -20,7 +20,7 @@ clone_projects.py -u mygithubusername -p mygithubpassword -d code-to-grade -f re
 Specify location of these files in grade-assignments.py. Main task here is to separate repositories that have no changes made by the student. These are moved to empty_repos. Graded repos are moved to a folder called graded. Build and execute tests are written to a text file.
 ./grade-assignments.py
 
-Example test code for the above assignment is included in the solution folder
+Example test code for the above assignment is included in the testfiles folder
 
 ##TO-DO:
 Currently, grade-assignments.py will get stuck if one of the student repos goes into an infinite loop. This requires killing grade-assignments.py, moving the problem repo, and restarting grade-assignments.py. This should be automated in an improved version
