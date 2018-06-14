@@ -33,7 +33,10 @@ Currently, grade-assignments.py will get stuck if one of the student repos goes 
 ## Acknowledgment
 * Code to download from github is based on https://github.com/muhasturk/gitim
 * Auto-grading code is based on:
-** https://github.com/kevinwortman/rubrictest
-** https://github.com/kevinwortman/nerfherder
-** https://github.com/kevinwortman/
+
+https://github.com/kevinwortman/rubrictest
+
+https://github.com/kevinwortman/nerfherder
+
+https://github.com/kevinwortman/
 * https://github.com/Sirusblk
