@@ -1,6 +1,8 @@
 #! /usr/bin/env python3.5
 
-# Acknowledgment: https://github.com/kevinwortman/
+# Acknowledgment:
+# https://github.com/kevinwortman/rubrictest
+# https://github.com/kevinwortman/nerfherder
 
 import os, os.path, shutil, subprocess, filecmp
 
